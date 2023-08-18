@@ -1,0 +1,44 @@
+
+Eligibility
+Because SNAP is a means-tested program, recipients must meet all eligibility criteria in order to receive benefits. There are income and resource requirements for SNAP, as well as specific requirements for immigrants, elderly persons and persons with disabilities.[33][34]
+
+Income requirements
+For income, individuals and households may qualify for benefits if they earn a gross monthly income that is 130% (or less) of the federal poverty level for a specific household size. For example: the SNAP-eligible gross monthly income is $1,245 or less for an individual. For a household of four, the SNAP eligible gross monthly income is $2,552 or less. Gross monthly income is the amount an individual makes each month before any deductions, e.g., taxes, insurance, pensions, etc.[33]
+
+Work requirements
+General work requirements apply to people aged 16 to 59 to participate in the program, exempting students, caregivers of children under 6 and incapacitate people, people unable to work due to a disability, and people in drug rehabilitation. Such recipients must work 30 hours a week, or register for work or participate in state training; they may not reduce hours below 30 per week if working, quit, or decline a job offer without a good reason.[35] For able-bodied adults aged 18 to 49 without dependents under 18 in the household and who are not pregnant, there is a requirement for 80 hours per month spent at work, volunteering, workfare, or workforce training.[36] Critics say opportunities for training or volunteering are limited.[37] Individual states may waive the work requirements, with many states in high unemployment areas opting to loosen requirements for SNAP eligibility.[37]
+
+In December 2019, the Trump Administration proposed to limit states' ability to issue eligibility waivers to single able-bodied adults between 18 and 49, which would result in ineligibility of SNAP benefits to an estimated 688,000 people in April 2020.[37][needs update]
+
+Resource requirements
+There is also a resource requirement for SNAP, although eligibility requirements vary slightly from state to state. Generally speaking, households may have up to $2,250 in a bank account or other countable sources. If at least one person is age 60 or older and/or has disabilities, households may have $3,500 in countable resources.[33]
+
+Housing expenditure
+The lack of affordable housing in urban areas means that money that could have been spent on food is spent on housing expenses. Housing is generally considered affordable when it costs 30% or less of total household income; rising housing costs have made this ideal difficult to attain.
+
+This is especially true in New York City, where 28% of rent stabilized tenants spend more than half their income on rent.[38] Among lower income families the percentage is much higher. According to an estimate by the Community Service Society, 65% of New York City families living below the federal poverty line are paying more than half of their income toward rent.[39]
+
+The current eligibility criteria attempt to address this, by including a deduction for "excess shelter costs". This applies only to households that spend more than half of their net income on rent. For the purpose of this calculation, a household's net income is obtained by subtracting certain deductions from their gross (before deductions) income. If the household's total expenditures on rent exceed 50% of that net income, then the net income is further reduced by the amount of rent that exceeds 50% of net income. For 2007, this deduction can be no more than $417, except in households that include an elderly or disabled person.[40] Deductions include:
+
+a standard deduction that is subtracted from income for all recipients,
+an earned income deduction reflecting taxes and work expenses,
+a deduction for dependent care expenses related to work or training (up to certain limits),
+a deduction for child support payments,
+a deduction for medical expenses above a set amount per month (only available to elderly and disabled recipients), and
+a deduction for excessively high shelter expenses.[41]
+The adjusted net income, including the deduction for excess shelter costs, is used to determine whether a household is eligible for food stamps.
+
+Immigrant status and eligibility
+The 2002 Farm Bill restores SNAP eligibility to most legal immigrants that:
+
+Have lived in the country for 5 years; or
+Are receiving disability-related assistance or benefits; or
+Have children under 18
+Certain non-citizens, such as those admitted for humanitarian reasons and those admitted for permanent residence, may also be eligible for SNAP. Eligible household members can get SNAP benefits even if there are other members of the household that are not eligible.[33]
+
+Student eligibility
+When CalFresh was first introduced, college students were not considered a main target for food assistance; most students at the time were from white, middle-class families, under the care of their parents and were young high school graduates without dependents to provide for.[42][43] To prevent students from mis-using the system, students enrolled in higher education for at least half-time were automatically ineligible for SNAP.
+
+However, many students nowadays come from low-income families, racial and ethnic minorities, have jobs, are parents, or are not recent high school graduates.[42][43] Many college students are leaving their homes and managing their own finances for the first time in their lives and depending on where they go to school, there may be limited access to affordable and nutritious food, making students particularly vulnerable to food insecurity.[44] In 2015, in response to the changing student population, the CalFresh Student Eligibility Amendment established exemptions to the rule in Section 273.5(a) of Title 7 of the Code of Federal Regulations which excluded college students enrolled at least half-time from SNAP benefits.[42][45] Commonly met exemptions include students be under 18 or over 49, physically or mentally unfit to work, participate in federal or state work study, be employed for at least 20 hours per week, participate in SNAP employment and training program, receive Temporary Assistance for Needy Families benefits, and caring for dependent children.[42]
+
+Unfortunately, many students are misinformed that using CalFresh or SNAP will negatively affect their financial aid packages and are worried about the stigma associated with food insecurity in college campuses.[42] Out of fear of being ostracized by their peers, many college students simply do not apply or do not talk about the program, limiting awareness and the potential of CalFresh to eliminate college food insecurity. To counteract this, many recent legislations and changes to SNAP are focusing on SNAP education, outreach, and accessibility. For instance, the recently proposed College Student Hunger Act of 2019 focuses on improving student eligibility, increasing outreach and education for SNAP, and introduces a student hunger pilot program to test different ways CalFresh can be made more useful for students.[46] The Act would allow Pell-Grant eligible and independent students to qualify for benefits, lowers the 20 hours/week work requirement to 10 hours/week, and requires the Department of Education to notify Pell Grant eligible students of their SNAP eligibility.[46] The pilot program will test different ways students can use SNAP benefits such as directly at the dining hall or indirectly to help pay for student meal plans.[46]
